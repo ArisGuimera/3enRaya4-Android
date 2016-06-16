@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ControlDesde0</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_borrar">borrar</string>
+    <string name="title_activity_winx">winx</string>
+    <string name="title_activity_winy">winy</string>
+</resources>
